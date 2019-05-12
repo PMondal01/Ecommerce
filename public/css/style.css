@@ -1,0 +1,34 @@
+/** Navbar CSS **/
+.mr-auto, .mx-auto {
+    margin-top: 12px;
+    margin-bottom: -10px;
+}/**
+
+* Override CSS's
+*/
+.bg-light{
+    background-color: #02aadd!important;
+}
+
+
+
+.margin-top-20{
+
+    margin-top:20px;
+
+}
+
+.feature-img{
+    max-height: 200px
+}
+
+.footer-bottom{
+    padding: 20px;
+    margin-top: 20px;
+    background: #02aadd;
+
+}
+.navbar navbar-expand-lg navbar-light bg-light{
+
+    background: #02aadd;
+}
